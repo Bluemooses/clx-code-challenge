@@ -2,7 +2,7 @@ console.log("You are appreciated.");
 
 //initialize for loop on [1 - 100]
 for (let i = 1; i <= 100; i++) {
-    //Multiples of 3 or 5 print CLXDTC
+    //Multiples of 3 and 5 print CLXDTC
   if (i % 3 === 0 && i % 5 === 0) {
     console.log("CLXDTC");
     //Multiples of 5 print DTC
